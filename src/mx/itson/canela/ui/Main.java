@@ -37,6 +37,7 @@ public class Main {
         receta.setIngredientes(ingredientes);
                 
         //agregar pasos
+        //espero que lo hayan hecho
         
         receta.setDificultad(Dificultad.INTERMEDIO);
         
